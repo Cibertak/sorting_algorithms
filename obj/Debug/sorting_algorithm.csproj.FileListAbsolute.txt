@@ -1,0 +1,10 @@
+C:\Users\Jack Northover\Documents\whitirea\sem 2 yr1\programing\personal\sorting_algorithm\bin\Debug\sorting_algorithm.exe.config
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\sorting_algorithm\bin\Debug\sorting_algorithm.exe.config
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\sorting_algorithm\bin\Debug\sorting_algorithm.exe
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\sorting_algorithm\bin\Debug\sorting_algorithm.pdb
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\sorting_algorithm\obj\Debug\sorting_algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\sorting_algorithm\obj\Debug\sorting_algorithm.Form1.resources
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\sorting_algorithm\obj\Debug\sorting_algorithm.Properties.Resources.resources
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\sorting_algorithm\obj\Debug\sorting_algorithm.csproj.GenerateResource.Cache
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\sorting_algorithm\obj\Debug\sorting_algorithm.exe
+C:\Users\Jack Northover\Documents\whitirea\sem-2-yr1\programing\personal\sorting_algorithm\obj\Debug\sorting_algorithm.pdb
